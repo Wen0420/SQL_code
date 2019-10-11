@@ -265,7 +265,11 @@ and c.title = 'Academy Dinosaur';
 
 #没有返回结果说明这天这部电影没有被借出。所以5月25号这天是available的。
 
-#12.Insert a record to represent Mary Smith renting ‘Academy Dinosaur’ from Mike Hillyer at Store 1 today .
+#12.Insert a record to represent Mary Smith renting ‘Academy Dinosaur’ from Mike Hillyer at Store 1 today.
+
+#14.What is that average running time of all the films in the sakila DB?
+
+
 
 
 
